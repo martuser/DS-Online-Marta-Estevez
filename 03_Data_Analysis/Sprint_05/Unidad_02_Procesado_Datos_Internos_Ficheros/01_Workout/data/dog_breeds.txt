@@ -1,10 +1,10 @@
 Pug
-Jack Russell Terrier
-English Springer Spaniel
+Jack Russell 
+English Springer 
 German Shepherd
-Staffordshire Bull Terrier
-Cavalier King Charles Spaniel
+Staffordshire Bull 
+Cavalier King Charles 
 Golden Retriever
-West Highland White Terrier
+West Highland White 
 Boxer
-Border Terrier
+Border 
